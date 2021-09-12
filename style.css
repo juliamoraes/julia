@@ -54,10 +54,6 @@
     list-style: none;
   }
 
-  .navbar_item{
-    height: 800px;
-  }
-
   .navbar_links{
     color: #fff;
     display: flex;
